@@ -1,0 +1,70 @@
+{
+  "nekopara": [
+    {
+      "character_1": {
+        "id": "#01",
+        "name": "Vanilla",
+        "emoji": "<:vanilla:1212896414582186014>",
+        "images": {
+          "default": "https://i.imgur.com/2q48hoe.png",
+          "thumbnail": "https://i.imgur.com/jllJmRe.png"
+        }
+      }
+    },
+    {
+      "character_2": {
+        "id": "#02",
+        "name": "Chocola",
+        "emoji": "<:chocola:1212904153425252383>",
+        "images": {
+          "default": "https://i.imgur.com/g37ynWq.png",
+          "thumbnail": "https://i.imgur.com/q4Ky9sP.png"
+        }
+      }
+    },
+    {
+      "character_3": {
+        "id": "#03",
+        "name": "Azuki",
+        "emoji": "<:azuki:1212912664867512320>",
+        "images": {
+          "default": "https://i.imgur.com/6vDyXgq.png",
+          "thumbnail": "https://i.imgur.com/FA1V7Yj.png"
+        }
+      }
+    },
+    {
+      "character_4": {
+        "id": "#04",
+        "name": "Cinnamon",
+        "emoji": "<:cinnamon:1212929980300927028>",
+        "images": {
+          "default": "https://i.imgur.com/3uSKT3F.png",
+          "thumbnail": "https://i.imgur.com/UbbCaCF.png"
+        }
+      }
+    },
+    {
+      "character_5": {
+        "id": "#05",
+        "name": "Maple",
+        "emoji": "<:maple:1212934670061408367>",
+        "images": {
+          "default": "https://i.imgur.com/a5G32a4.png",
+          "thumbnail": "https://i.imgur.com/t75h6CI.png"
+        }
+      }
+    },
+    {
+      "character_6": {
+        "id": "#06",
+        "name": "Coconut",
+        "emoji": "<:coconut_neko:1212934692291219496>",
+        "images": {
+          "default": "https://i.imgur.com/isnyx81.png",
+          "thumbnail": "https://i.imgur.com/5eIRRQK.png"
+        }
+      }
+    }
+  ]
+}
