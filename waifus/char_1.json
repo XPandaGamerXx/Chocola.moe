@@ -4,6 +4,7 @@
   "char_name": "Silica",
   "gender": "<:female:1214326369798987786>",
   "images": {
-    "default": "https://i.imgur.com/TBrNQW7.png"
+    "v1": "https://i.imgur.com/TBrNQW7.png",
+    "v2": "https://i.imgur.com/o56ZZot.png"
   }
 }
