@@ -1,0 +1,13 @@
+{
+  "id": "#10",
+  "anime_name": "Sword Art Online",
+  "char_name": "Leafa",
+  "gender": "<:female:1214326369798987786>",
+  "image_type": "medium",
+  "images": {
+    "v1": "https://i.imgur.com/n6PRWH6.png",
+    "v2": "https://i.imgur.com/b6NLcVP.png",
+    "v3": "https://i.imgur.com/8xvSl7D.png",
+    "v4": "https://i.imgur.com/dkUP81n.png"
+  }
+}
