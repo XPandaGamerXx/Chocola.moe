@@ -5,10 +5,15 @@
   "gender": "<:female:1214326369798987786>",
   "image_type": "medium",
   "images": {
-    "v1": "https://i.imgur.com/TBrNQW7.png",
-    "v2": "https://i.imgur.com/tJZMTG6.png",
-    "v3": "https://i.imgur.com/513OKj9.png",
-    "v4": "https://i.imgur.com/gzyA7w1.png"
+    "img_1": "https://i.imgur.com/dUqe1Rm.png",
+    "img_2": "https://i.imgur.com/PzWoLkg.png",
+    "img_3": "https://i.imgur.com/PD3hZ0k.png"
+  }
+  "char_images": {
+    "img_1": "https://i.imgur.com/TBrNQW7.png",
+    "img_2": "https://i.imgur.com/tJZMTG6.png",
+    "img_3": "https://i.imgur.com/513OKj9.png",
+    "img_4": "https://i.imgur.com/gzyA7w1.png"
   },
   "incorrect_animes_1": {
     "1": "Isekai Cheat Magician",
