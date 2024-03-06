@@ -1,20 +1,28 @@
 {
   "id": "#07",
+  "anime": "sao.json",
   "anime_name": "Sword Art Online",
   "char_name": "Silica",
   "gender": "<:female:1214326369798987786>",
   "image_type": "medium",
-  "images": {
-    "img_1": "https://i.imgur.com/dUqe1Rm.png",
-    "img_2": "https://i.imgur.com/PzWoLkg.png",
-    "img_3": "https://i.imgur.com/PD3hZ0k.png"
-  }
-  "char_images": {
-    "img_1": "https://i.imgur.com/TBrNQW7.png",
-    "img_2": "https://i.imgur.com/tJZMTG6.png",
-    "img_3": "https://i.imgur.com/513OKj9.png",
-    "img_4": "https://i.imgur.com/gzyA7w1.png"
-  },
+  "images": [
+    {
+      "default": {
+        "1": "https://i.imgur.com/dUqe1Rm.png",
+        "2": "https://i.imgur.com/PzWoLkg.png",
+        "3": "https://i.imgur.com/PD3hZ0k.png",
+        "4": "https://i.imgur.com/hjNk14r.png"
+      }
+    },
+    {
+      "char_images": {
+        "1": "https://i.imgur.com/TBrNQW7.png",
+        "2": "https://i.imgur.com/tJZMTG6.png",
+        "3": "https://i.imgur.com/513OKj9.png",
+        "4": "https://i.imgur.com/gzyA7w1.png"
+      } 
+    }
+  ],
   "incorrect_animes_1": {
     "1": "Isekai Cheat Magician",
     "2": "Log Horizon",
