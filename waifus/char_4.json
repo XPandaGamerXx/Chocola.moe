@@ -9,5 +9,23 @@
     "v2": "https://i.imgur.com/b6NLcVP.png",
     "v3": "https://i.imgur.com/8xvSl7D.png",
     "v4": "https://i.imgur.com/dkUP81n.png"
+  },
+  "incorrect_animes_1": {
+    "1": "Isekai Cheat Magician",
+    "2": "Log Horizon",
+    "3": "Konosuba",
+    "4": "Overlord",
+    "5": "Goblin Slayer",
+    "6": "Re:Zero",
+    "7": "Tensei Kenja no Isekai Life"
+  },
+  "incorrect_animes_2": {
+    "1": "Isekai wa Smartphone",
+    "2": "Iseleve",
+    "3": "Konosuba",
+    "4": "Kenja no Mago",
+    "5": "Mushoku Tensei",
+    "6": "Slime Taoshite 300-nen",
+    "7": "Tensei shitara Ken Deshita"
   }
 }
