@@ -3,8 +3,6 @@
   "charname": "Silica",
   "anime_name": "Sword Art Online",
   "gender": "<:female:1214326369798987786>",
-  "total_img": "5",
-  "total_chars": "11",
   "images": [
     {
       "default": {
@@ -23,6 +21,7 @@
       } 
     }
   ],
+  "total_img": "5",
   "incorrect_char_1": {
     "1": "Asuna",
     "2": "Sinon",
@@ -46,5 +45,6 @@
     "8": "LLenn",
     "9": "Lisbeth",
     "10": "Tiese Shtolienen"
-  }
+  },
+  "total_chars": "11"
 }
