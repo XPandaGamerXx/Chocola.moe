@@ -21,7 +21,7 @@
       } 
     }
   ],
-  "total_img": "5",
+  "total_img": 5,
   "incorrect_char_1": {
     "1": "Asuna",
     "2": "Sinon",
@@ -46,5 +46,5 @@
     "9": "Lisbeth",
     "10": "Tiese Shtolienen"
   },
-  "total_chars": "11"
+  "total_chars": 11
 }
