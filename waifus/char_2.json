@@ -1,31 +1,50 @@
 {
-  "id": "#08",
+  "id": "08",
+  "charname": "Asuna",
   "anime_name": "Sword Art Online",
-  "char_name": "Asuna",
   "gender": "<:female:1214326369798987786>",
-  "image_type": "medium",
-  "images": {
-    "v1": "https://i.imgur.com/wkVGJDT.png",
-    "v2": "https://i.imgur.com/nWbHfwY.png",
-    "v3": "https://i.imgur.com/q3CZq3F.png",
-    "v4": "https://i.imgur.com/bves4ho.png"
+  "images": [
+    {
+      "default": {
+        "1": "https://i.imgur.com/23t4yjl.png",
+        "2": "https://i.imgur.com/By2x8i2.png",
+        "3": "https://i.imgur.com/dT9vNyj.png",
+        "4": "https://i.imgur.com/JYIKbzX.png"
+      }
+    },
+    {
+      "character": {
+        "1": "https://i.imgur.com/wkVGJDT.png",
+        "2": "https://i.imgur.com/nWbHfwY.png",
+        "3": "https://i.imgur.com/q3CZq3F.png",
+        "4": "https://i.imgur.com/bves4ho.png"
+      }
+    }
+  ],
+  "total_img": 5,
+  "incorrect_char_1": {
+    "1": "Silica",
+    "2": "Sinon",
+    "3": "Yui",
+    "4": "Sachi",
+    "5": "Alice",
+    "6": "Yuuki",
+    "7": "Yuna",
+    "8": "Pitohui",
+    "9": "Fukaziroh",
+    "10": "Ronye Arabel"
   },
-  "incorrect_animes_1": {
-    "1": "Isekai Cheat Magician",
-    "2": "Log Horizon",
-    "3": "Konosuba",
-    "4": "Overlord",
-    "5": "Goblin Slayer",
-    "6": "Re:Zero",
-    "7": "Tensei Kenja no Isekai Life"
+  "incorrect_char_2": {
+    "1": "Leafa",
+    "2": "Alicia Rue",
+    "3": "Sakuya",
+    "4": "Argo",
+    "5": "Cardinal",
+    "6": "Quinella",
+    "7": "Mito",
+    "8": "LLenn",
+    "9": "Lisbeth",
+    "10": "Tiese Shtolienen"
   },
-  "incorrect_animes_2": {
-    "1": "Isekai wa Smartphone",
-    "2": "Iseleve",
-    "3": "Konosuba",
-    "4": "Kenja no Mago",
-    "5": "Mushoku Tensei",
-    "6": "Slime Taoshite 300-nen",
-    "7": "Tensei shitara Ken Deshita"
-  }
+  "total_chars": 11
 }
