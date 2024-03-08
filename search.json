@@ -1,6 +1,8 @@
 {
   "characters": {
     "keiko_ayano": "silica.json",
-    "asuna_yuuki": "asuna.json"
+    "silica": "silica.json",
+    "asuna_yuuki": "asuna.json",
+    "asuna": "asuna.json"
   }
 }
