@@ -1,17 +1,10 @@
 {
   "id": "009",
   "charname": "Leafa",
+  "realname": "Kirigaya Suguha",
   "anime_name": "Sword Art Online",
   "gender": "<:female:1214326369798987786>",
   "images": [
-    {
-      "default": {
-        "1": "https://i.imgur.com/OcxXsjk.png",
-        "2": "https://i.imgur.com/Fb7F6ui.png",
-        "3": "https://i.imgur.com/ztgyJaI.png",
-        "4": "https://i.imgur.com/maoo0pI.png"
-      }
-    },
     {
       "character": {
         "1": "https://i.imgur.com/n6PRWH6.png",
@@ -21,30 +14,5 @@
       }
     }
   ],
-  "total_img": 5,
-  "incorrect_char_1": {
-    "1": "Asuna",
-    "2": "Sinon",
-    "3": "Yui",
-    "4": "Sachi",
-    "5": "Alice",
-    "6": "Yuuki",
-    "7": "Yuna",
-    "8": "Pitohui",
-    "9": "Fukaziroh",
-    "10": "Ronye Arabel"
-  },
-  "incorrect_char_2": {
-    "1": "Silica",
-    "2": "Alicia Rue",
-    "3": "Sakuya",
-    "4": "Argo",
-    "5": "Cardinal",
-    "6": "Quinella",
-    "7": "Mito",
-    "8": "LLenn",
-    "9": "Lisbeth",
-    "10": "Tiese Shtolienen"
-  },
-  "total_chars": 11
+  "total": 4
 }
