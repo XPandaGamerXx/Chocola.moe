@@ -1,10 +1,12 @@
 {
   "characters": {
-    "keiko_ayano": "silica.json",
-    "silica": "silica.json",
-    "asuna_yuuki": "asuna.json",
-    "asuna": "asuna.json",
-    "shino_asada": "sinon.json",
-    "sinon": "sinon.json"
+    "keiko_ayano": "006_sao.json",
+    "silica": "006_sao.json",
+    "asuna_yuuki": "007_sao.json",
+    "asuna": "007_sao.json",
+    "shino_asada": "008_sao.json",
+    "sinon": "008_sao.json",
+    "kirigaya_suguha": "009_sao.json"
+    "leafa": "009_sao.json",
   }
 }
