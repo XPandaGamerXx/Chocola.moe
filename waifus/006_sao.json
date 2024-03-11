@@ -4,15 +4,5 @@
   "realname": "Keiko Ayano",
   "anime": "Sword Art Online",
   "gender": "<:female:1214326369798987786>",
-  "images": [
-    {
-      "character": {
-        "1": "https://i.imgur.com/TBrNQW7.png",
-        "2": "https://i.imgur.com/tJZMTG6.png",
-        "3": "https://i.imgur.com/513OKj9.png",
-        "4": "https://i.imgur.com/gzyA7w1.png"
-      } 
-    }
-  ],
-  "total": 4
+  "url": "https://i.imgur.com/FIOmZJu.png"
 }
