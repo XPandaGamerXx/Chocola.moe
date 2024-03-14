@@ -1,12 +1,13 @@
 {
+  "total_cards": 2,
   "data": [
     {
       "name": "Albedo",
-      "url": ".png"
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/albedo.png"
     },
     {
       "name": "Amber",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/amber.png"
     }
   ]
 }
