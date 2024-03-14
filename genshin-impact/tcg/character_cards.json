@@ -1,5 +1,5 @@
 {
-  "total_cards": 1,
+  "total_cards": 44,
   "data": [
     {
       "name": "Albedo",
@@ -8,6 +8,174 @@
     {
       "name": "Amber",
       "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/amber.png"
+    },
+    {
+      "name": "Arataki Itto",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/arataki_itto.png"
+    },
+    {
+      "name": "Barbara",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/barbara.png"
+    },
+    {
+      "name": "Beidou",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/beidou.png"
+    },
+    {
+      "name": "Bennett",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/bennett.png"
+    },
+    {
+      "name": "Candace",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/candace.png"
+    },
+    {
+      "name": "Chongyun",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/chongyun.png"
+    },
+    {
+      "name": "Collei",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/collei.png"
+    },
+    {
+      "name": "Cyno",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/cyno.png"
+    },
+    {
+      "name": "Diluc",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/diluc.png"
+    },
+    {
+      "name": "Diona",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/diona.png"
+    },
+    {
+      "name": "Eula",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/eula.png"
+    },
+    {
+      "name": "Fischl",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/fischl.png"
+    },
+    {
+      "name": "Ganyu",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/ganyu.png"
+    },
+    {
+      "name": "Hu Tao",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/hu_tao.png"
+    },
+    {
+      "name": "Jean",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/jean.png"
+    },
+    {
+      "name": "Kaedehara Kazuha",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/kaedehara_kazuha.png"
+    },
+    {
+      "name": "Kaeya",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/kaeya.png"
+    },
+    {
+      "name": "Kamisato Ayaka",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/kamisato_ayaka.png"
+    },
+    {
+      "name": "Kamisato Ayato",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/kamisato_ayato.png"
+    },
+    {
+      "name": "Keqing",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/keqing.png"
+    },
+    {
+      "name": "Klee",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/klee.png"
+    },
+    {
+      "name": "Kujou Sara",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/kujou_sara.png"
+    },
+    {
+      "name": "Lisa",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/lisa.png"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/"
     }
   ]
 }
