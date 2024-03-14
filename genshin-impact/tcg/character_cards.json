@@ -1,5 +1,5 @@
 {
-  "total_cards": 44,
+  "total_cards": 48,
   "data": [
     {
       "name": "Albedo",
@@ -40,6 +40,10 @@
     {
       "name": "Cyno",
       "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/cyno.png"
+    },
+    {
+      "name": "Dehya",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/dehya.png"
     },
     {
       "name": "Diluc",
@@ -154,8 +158,16 @@
       "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/venti.png"
     },
     {
+      "name": "Wanderer",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/wanderer.png"
+    },
+    {
       "name": "Xiangling",
       "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/xiangling.png"
+    },
+    {
+      "name": "Xiao",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/xiao.png"
     },
     {
       "name": "Xingqiu",
@@ -168,6 +180,10 @@
     {
       "name": "Yanfei",
       "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/yanfei.png"
+    },
+    {
+      "name": "Yaoyao",
+      "url": "https://raw.githubusercontent.com/XPandaGamerXx/nekoapi.moe/main/genshin-impact/tcg/yaoyao.png"
     },
     {
       "name": "Yoimiya",
