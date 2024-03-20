@@ -1,5 +1,10 @@
 {
-  "name": "Bárbara",
+  "spanish": {
+    "name": "Bárbara",
+  },
+  "english": {
+    "name": "Barbara"
+  },
   "vision": "Hydro",
   "url": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/genshin-impact/images/barbara_card.png"
 }
