@@ -1,0 +1,13 @@
+{
+  "name": "Welt",
+  "gender": "male",
+  "faction": "Expreso Astral"
+  "rarity": 5,
+  "path": "Nihility",
+  "combat_type": "Imaginary",
+  "introduction": "Un miembro veterano de la tripulación. La sangre apasionada de su corazón bulle esperando otra larga aventura. A veces dibuja sus vivencias en un cuaderno.",
+  "images": {
+    "icon": "",
+    "character": ""
+  }
+}
