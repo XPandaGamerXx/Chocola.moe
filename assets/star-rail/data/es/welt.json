@@ -7,7 +7,7 @@
   "combat_type": "Imaginary",
   "introduction": "Un miembro veterano de la tripulación. La sangre apasionada de su corazón bulle esperando otra larga aventura. A veces dibuja sus vivencias en un cuaderno.",
   "images": {
-    "icon": "",
-    "character": ""
+    "icon": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/welt_icon.png",
+    "character": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/welt_art.png"
   }
 }
