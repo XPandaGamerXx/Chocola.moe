@@ -1,0 +1,38 @@
+{
+  "kiss": {
+    "description": "{user} besó a {user_2}"
+  },
+  "pat": {
+    "description": "{user} acarició la cabeza de {user_2}"
+  },
+  "bite": {
+    "description": "{user} mordió a {user_2}"
+  },
+  "baka": {
+    "description": "{user_2}, ¡¡BAKA BAKA BAKA!!"
+  },
+  "cuddle": {
+    "description": "{user} sé acurrucó con {user_2}"
+  },
+  "feed": {
+    "description": "{user} alimenta a {user_2}"
+  },
+  "handhold": {
+    "description": "{user} agarró la mano de {user_2}"
+  },
+  "hug": {
+    "description": "{user} le dió un abrazo a {user_2}"
+  },
+  "punch": {
+    "description": "{user} golpeó a {user_2}"
+  },
+  "slap": {
+    "description": "{user} le dió una bofetada a {user_2}"
+  },
+  "stare": {
+    "description": "{user} mira fijamente a {user_2}"
+  },
+  "handshake": {
+    "description": "{user} apretó su mano con {user_2}"
+  }
+}
