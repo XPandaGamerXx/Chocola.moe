@@ -9,7 +9,7 @@
     "description": "{user} is bored."
   },
   "cry": {
-    "description": "{user} started to cry."
+    "description": "{user} is crying."
   },
   "dance": {
     "description": "{user} started dancing."
