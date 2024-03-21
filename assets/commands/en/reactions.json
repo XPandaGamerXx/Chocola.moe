@@ -33,7 +33,7 @@
     "description": "{user} is sleeping."
   },
   "smug": {
-    "description": "{user} is bragging."
+    "description": "{user} is showing off."
   },
   "wink": {
     "description": "{user} winked his eye."
