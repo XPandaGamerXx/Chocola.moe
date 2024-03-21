@@ -1,7 +1,8 @@
 {
   "name": "Welt",
   "gender": "male",
-  "faction": "Expreso Astral"
+  "faction": "Expreso Astral",
+  "release": "2023-04-26",
   "rarity": 5,
   "path": "Nihility",
   "combat_type": "Imaginary",
