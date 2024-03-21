@@ -1,0 +1,44 @@
+{
+  "facepalm": {
+    "description": "{user} can't believe it."
+  },
+  "blush": {
+    "description": "{user} blushes. >///<"
+  },
+  "bored": {
+    "description": "{user} is bored."
+  },
+  "cry": {
+    "description": "{user} started to cry."
+  },
+  "dance": {
+    "description": "{user} started dancing."
+  },
+  "happy": {
+    "description": "{user} is happy."
+  },
+  "laugh": {
+    "description": "{user} can't stop laughing."
+  },
+  "pout": {
+    "description": "{user} is pouting."
+  },
+  "smile": {
+    "description": "{user} is smiling."
+  },
+  "think": {
+    "description": "{user} is thinking."
+  },
+  "sleep": {
+    "description": "{user} is sleeping."
+  },
+  "smug": {
+    "description": "{user} is bragging."
+  },
+  "wink": {
+    "description": "{user} winked his eye."
+  },
+  "nope": {
+    "description": "{user} does not agree."
+  }
+}
