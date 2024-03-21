@@ -1,0 +1,44 @@
+{
+  "facepalm": {
+    "description": "{user} no puede creerlo."
+  },
+  "blush": {
+    "description": "{user} se sonrojó. >///<"
+  },
+  "bored": {
+    "description": "{user} está aburrido."
+  },
+  "cry": {
+    "description": "{user} comenzó a llorar."
+  },
+  "dance": {
+    "description": "{user} se puso a bailar."
+  },
+  "happy": {
+    "description": "{user} está feliz."
+  },
+  "laugh": {
+    "description": "{user} no puede parar de reír."
+  },
+  "pout": {
+    "description": "{user} hizo un puchero."
+  },
+  "smile": {
+    "description": "{user} está sonriendo."
+  },
+  "think": {
+    "description": "{user} está pensando."
+  },
+  "sleep": {
+    "description": "{user} está durmiendo."
+  },
+  "smug": {
+    "description": "{user} está presumiendo."
+  },
+  "wink": {
+    "description": "{user} guiñó su ojo."
+  },
+  "nope": {
+    "description": "{user} no está de acuerdo."
+  }
+}
