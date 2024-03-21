@@ -14,9 +14,6 @@
   "cuddle": {
     "description": "{user} snuggled with {user_2}"
   },
-  "bite": {
-    "description": "{user} bites {user_2}"
-  },
   "feed": {
     "description": "{user} feeds {user_2}"
   },
