@@ -12,7 +12,7 @@
     "description": "{user} is crying."
   },
   "dance": {
-    "description": "{user} started dancing."
+    "description": "{user} is dancing."
   },
   "happy": {
     "description": "{user} is happy."
