@@ -1,12 +1,21 @@
 {
-  "name": "Welt",
-  "gender": "Male",
-  "faction": "Expreso Astral",
-  "release": "2023-04-26",
   "rarity": 5,
-  "path": "Nihility",
-  "combat_type": "Imaginary",
-  "introduction": "La sangre apasionada de su corazón bulle esperando otra larga aventura.",
+  "gender": "Male",
+  "en": {
+    "name": "Welt",
+    "faction": "Astral Express",
+    "path": "Nihility",
+    "combat_type": "Imaginary",
+    "introduction": "The passion buried in his heart burns anew as he enjoys this fresh adventure.",
+  },
+  "es": {
+    "name": "Welt",
+    "faction": "Expreso Astral",
+    "path": "Nihilidad",
+    "combat_type": "Imaginario",
+    "introduction": "La sangre apasionada de su corazón bulle esperando otra larga aventura.",
+  },
+  "release": "2023-04-26",
   "images": {
     "icon": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/welt_icon.png",
     "character": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/welt_card.png"
