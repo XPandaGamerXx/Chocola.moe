@@ -1,0 +1,22 @@
+{
+  "rarity": 5,
+  "gender": "Female",
+  "combat_type": "Quantum",
+  "en": {
+    "name": "Seele",
+    "faction": "",
+    "path": "",
+    "introduction": "."
+  },
+  "es": {
+    "name": "Seele",
+    "faction": "",
+    "path": "",
+    "introduction": "."
+  },
+  "release": "",
+  "images": {
+    "icon": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/.png",
+    "character": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/_card.png"
+  }
+}
