@@ -1,18 +1,17 @@
 {
   "rarity": 5,
   "gender": "Male",
+  "combat_type": "Imaginary",
   "en": {
     "name": "Welt",
     "faction": "Astral Express",
     "path": "Nihility",
-    "combat_type": "Imaginary",
     "introduction": "The passion buried in his heart burns anew as he enjoys this fresh adventure.",
   },
   "es": {
     "name": "Welt",
     "faction": "Expreso Astral",
     "path": "Nihilidad",
-    "combat_type": "Imaginario",
     "introduction": "La sangre apasionada de su corazón bulle esperando otra larga aventura.",
   },
   "release": "2023-04-26",
