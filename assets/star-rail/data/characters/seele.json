@@ -4,19 +4,19 @@
   "combat_type": "Quantum",
   "en": {
     "name": "Seele",
-    "faction": "",
-    "path": "",
-    "introduction": "."
+    "faction": "Belobog",
+    "path": "The Hunt",
+    "introduction": "She has a frank personality, but there is delicate and sensitive hidden side to her deep in her heart."
   },
   "es": {
     "name": "Seele",
-    "faction": "",
-    "path": "",
-    "introduction": "."
+    "faction": "Belobog",
+    "path": "Cacería",
+    "introduction": "Es muy franca y directa, pero también esconde un lado delicado en su interior."
   },
   "release": "",
   "images": {
-    "icon": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/.png",
-    "character": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/_card.png"
+    "icon": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/seele_icon.png",
+    "character": "https://raw.githubusercontent.com/XPandaGamerXx/akemi.moe/main/assets/star-rail/images/seele_card.png"
   }
 }
