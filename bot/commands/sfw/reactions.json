@@ -1,0 +1,62 @@
+{
+  "blush": {
+    "text": "**{user}** se ha sonrojado."
+  },
+  "bored": {
+    "text": "**{user}** está aburrido."
+  },
+  "cry": {
+    "text": "**{user}** está llorando."
+  },
+  "dance": {
+    "text": "**{user}** está bailando."
+  },
+  "facepalm": {
+    "text": "**{user}** se cubre la cara de frustración."
+  },
+  "happy": {
+    "text": "**{user}** está feliz."
+  },
+  "laugh": {
+    "text": "**{user}** está riendo a carcajadas."
+  },
+  "lurk": {
+    "text": "**{user}** está mirando desde las sombras."
+  },
+  "nod": {
+    "text": "**{user}** asiente con la cabeza."
+  },
+  "nom": {
+    "text": "**{user}** está comiendo algo delicioso."
+  },
+  "nope": {
+    "text": "**{user}** niega con la cabeza."
+  },
+  "pout": {
+    "text": "**{user}** está haciendo puchero."
+  },
+  "shrug": {
+    "text": "**{user}** se encoge de hombros."
+  },
+  "sleep": {
+    "text": "**{user}** está durmiendo."
+  },
+  "smile": {
+    "text": "**{user}** sonríe dulcemente."
+  },
+  "smug": {
+    "text": "**{user}** tiene una expresión arrogante."
+  },
+  "think": {
+    "text": "**{user}** está pensando profundamente."
+  },
+  "thumbsup": {
+    "text": "**{user}** aprueba ésto."
+  },
+  "wink": {
+    "text": "**{user}** guiña un ojo."
+  },
+  "yawn": {
+    "text": "**{user}** está bostezando."
+  }
+}
