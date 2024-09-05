@@ -1,0 +1,62 @@
+{
+  "baka": {
+    "text": "**{user_2}** ¡¡BAKA BAKA BAKA!!"
+  },
+  "bite": {
+    "text": "**{user_1}** ha mordido a **{user_2}**"
+  },
+  "cuddle": {
+    "text": "**{user_1}** está acurrucándose con **{user_2}**"
+  },
+  "feed": {
+    "text": "**{user_1}** está alimentando a **{user_2}**"
+  },
+  "handhold": {
+    "text": "**{user_1}** ha tomando la mano de **{user_2}**"
+  },
+  "handshake": {
+    "text": "**{user_1}** estrechada su mano con **{user_2}**"
+  },
+  "highfive": {
+    "text": "**{user_1}** chocó las manos con **{user_2}**"
+  },
+  "hug": {
+    "text": "**{user_1}** ha abrazado a **{user_2}**"
+  },
+  "kick": {
+    "text": "**{user_1}** ha pateado a **{user_2}**"
+  },
+  "kiss": {
+    "text": "**{user_1}** se besó con **{user_2}**"
+  },
+  "pat": {
+    "text": "**{user_1}** acaricia la cabeza de **{user_2}**"
+  },
+  "peck": {
+    "text": "**{user_1}** le da un beso inesperadamente a **{user_2}**"
+  },
+  "poke": {
+    "text": "**{user_1}** toca la mejilla de **{user_2}**"
+  },
+  "punch": {
+    "text": "**{user_1}** ha golpeado a **{user_2}**"
+  },
+  "shoot": {
+    "text": "**{user_1}** le disparó a **{user_2}**"
+  },
+  "slap": {
+    "text": "**{user_1}** ha abofeteado a **{user_2}**"
+  },
+  "stare": {
+    "text": "**{user_1}** está mirando fijamente a **{user_2}**"
+  },
+  "tickle": {
+    "text": "**{user_1}** está haciendo cosquillas a **{user_2}**"
+  },
+  "wave": {
+    "text": "**{user_1}** saluda con la mano a **{user_2}**"
+  },
+  "yeet": {
+    "text": "**{user_1}** ha lanzado a **{user_2}** por los aires."
+  }
+}
