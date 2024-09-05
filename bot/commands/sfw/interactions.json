@@ -6,7 +6,7 @@
     "text": "**{user_1}** ha mordido a **{user_2}**"
   },
   "cuddle": {
-    "text": "**{user_1}** está acurrucándose con **{user_2}**"
+    "text": "**{user_1}** se acurruca con **{user_2}**"
   },
   "feed": {
     "text": "**{user_1}** está alimentando a **{user_2}**"
