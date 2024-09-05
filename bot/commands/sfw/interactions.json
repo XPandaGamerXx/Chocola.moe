@@ -51,7 +51,7 @@
     "text": "**{user_1}** está mirando fijamente a **{user_2}**"
   },
   "tickle": {
-    "text": "**{user_1}** está haciendo cosquillas a **{user_2}**"
+    "text": "**{user_1}** le hace cosquillas a **{user_2}**"
   },
   "wave": {
     "text": "**{user_1}** saluda con la mano a **{user_2}**"
