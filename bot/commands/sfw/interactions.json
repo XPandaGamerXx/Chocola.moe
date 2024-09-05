@@ -39,7 +39,7 @@
     "text": "**{user_1}** está molestando a **{user_2}**"
   },
   "punch": {
-    "text": "**{user_1}** ha golpeado a **{user_2}**"
+    "text": "**{user_1}** le dió un golpe a **{user_2}**"
   },
   "shoot": {
     "text": "**{user_1}** le disparó a **{user_2}**"
