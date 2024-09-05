@@ -8,6 +8,9 @@
   "cry": {
     "text": "**{user}** está llorando."
   },
+  "dance": {
+    "text": "**{user}** está bailando."
+  },
   "facepalm": {
     "text": "**{user}** se cubre la cara de frustración."
   },
