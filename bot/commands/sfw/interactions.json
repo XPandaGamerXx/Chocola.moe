@@ -36,7 +36,7 @@
     "text": "**{user_1}** sorpende a **{user_2}** con un beso."
   },
   "poke": {
-    "text": "**{user_1}** toca la mejilla de **{user_2}**"
+    "text": "**{user_1}** está molestando a **{user_2}**"
   },
   "punch": {
     "text": "**{user_1}** ha golpeado a **{user_2}**"
