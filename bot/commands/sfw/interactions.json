@@ -33,7 +33,7 @@
     "text": "**{user_1}** acaricia la cabeza de **{user_2}**"
   },
   "peck": {
-    "text": "**{user_1}** le da un beso inesperadamente a **{user_2}**"
+    "text": "**{user_1}** sorpende a **{user_2}** con un beso."
   },
   "poke": {
     "text": "**{user_1}** toca la mejilla de **{user_2}**"
