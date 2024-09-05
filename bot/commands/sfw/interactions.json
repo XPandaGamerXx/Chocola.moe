@@ -27,10 +27,10 @@
     "text": "**{user_1}** ha pateado a **{user_2}**"
   },
   "kiss": {
-    "text": "**{user_1}** se besó con **{user_2}**"
+    "text": "**{user_1}** unió sus labios con **{user_2}**"
   },
   "pat": {
-    "text": "**{user_1}** acaricia la cabeza de **{user_2}**"
+    "text": "**{user_2}** recibe las caricias de **{user_1}**"
   },
   "peck": {
     "text": "**{user_1}** sorpende a **{user_2}** con un beso."
