@@ -51,9 +51,9 @@
     "text": "**{user}** levanta el pulgar en señal de aprobación"
   },
   "wink": {
-    "text": "{user} guiña un ojo"
+    "text": "**{user}** guiña un ojo"
   },
   "yawn": {
-    "text": "{user} está bostezando"
+    "text": "**{user}** está bostezando"
   }
 }
