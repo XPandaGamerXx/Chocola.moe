@@ -1,59 +1,59 @@
 {
   "blush": {
-    "text": "**{user}** se ha sonrojado"
+    "text": "**{user}** se ha sonrojado."
   },
   "bored": {
-    "text": "**{user}** está aburrido"
+    "text": "**{user}** está aburrido."
   },
   "cry": {
-    "text": "**{user}** está llorando"
+    "text": "**{user}** está llorando."
   },
   "facepalm": {
-    "text": "**{user}** se cubre la cara de frustración"
+    "text": "**{user}** se cubre la cara de frustración."
   },
   "happy": {
-    "text": "**{user}** está feliz"
+    "text": "**{user}** está feliz."
   },
   "laugh": {
-    "text": "**{user}** está riendo a carcajadas"
+    "text": "**{user}** está riendo a carcajadas."
   },
   "lurk": {
-    "text": "**{user}** está acechando en las sombras"
+    "text": "**{user}** está acechando en las sombras."
   },
   "nod": {
-    "text": "**{user}** asiente con la cabeza"
+    "text": "**{user}** asiente con la cabeza."
   },
   "nom": {
-    "text": "**{user}** está comiendo algo delicioso"
+    "text": "**{user}** está comiendo algo delicioso."
   },
   "nope": {
-    "text": "**{user}** niega con la cabeza"
+    "text": "**{user}** niega con la cabeza."
   },
   "pout": {
-    "text": "**{user}** está haciendo puchero"
+    "text": "**{user}** está haciendo puchero."
   },
   "shrug": {
-    "text": "**{user}** se encoge de hombros"
+    "text": "**{user}** se encoge de hombros."
   },
   "sleep": {
-    "text": "**{user}** está durmiendo"
+    "text": "**{user}** está durmiendo."
   },
   "smile": {
-    "text": "**{user}** sonríe dulcemente"
+    "text": "**{user}** sonríe dulcemente."
   },
   "smug": {
-    "text": "**{user}** tiene una expresión arrogante"
+    "text": "**{user}** tiene una expresión arrogante."
   },
   "think": {
-    "text": "**{user}** está pensando profundamente"
+    "text": "**{user}** está pensando profundamente."
   },
   "thumbsup": {
-    "text": "**{user}** levanta el pulgar en señal de aprobación"
+    "text": "**{user}** aprueba ésto."
   },
   "wink": {
-    "text": "**{user}** guiña un ojo"
+    "text": "**{user}** guiña un ojo."
   },
   "yawn": {
-    "text": "**{user}** está bostezando"
+    "text": "**{user}** está bostezando."
   }
 }
