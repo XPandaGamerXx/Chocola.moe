@@ -15,7 +15,7 @@
     "text": "**{user_1}** ha tomando la mano de **{user_2}**"
   },
   "handshake": {
-    "text": "**{user_1}** estrechada su mano con **{user_2}**"
+    "text": "**{user_1}** estrecha su mano con **{user_2}**"
   },
   "highfive": {
     "text": "**{user_1}** chocó las manos con **{user_2}**"
