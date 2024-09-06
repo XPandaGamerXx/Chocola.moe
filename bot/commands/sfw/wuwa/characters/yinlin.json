@@ -6,6 +6,10 @@
   "rarity_color": "#fffc4d",
   "element": "Electro",
   "weapon": "Rectificador",
+  "banner": {
+    "type": "Promocional",
+    "name": "Cuando el Trueno Cae"
+  },
   "stats": [
     {
       "name": "HP",
