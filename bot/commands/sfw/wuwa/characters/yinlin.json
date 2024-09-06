@@ -1,0 +1,55 @@
+{
+  "name": "Yinlin",
+  "gender": "Femenino",
+  "rarity": 5,
+  "rarity_color": "#ffd66c",
+  "element": "Electro",
+  "weapon": "Rectificador",
+  "stats": [
+    {
+      "name": "HP",
+      "base_stat": 880
+    },
+    {
+      "name": "ATK",
+      "base_stat": 32
+    },
+    {
+      "name": "DEF",
+      "base_stat": 105
+    },
+    {
+      "name": "Crit. Rate",
+      "base_stat": 5
+    },
+    {
+      "name": "Crit. DMG",
+      "base_stat": 150
+    }
+  ],
+  "images": {
+    "icon": "https://i.imgur.com/Gg9ble5.png",
+    "art": "https://i.imgur.com/qrmjt33.png"
+  },
+  "best_team": [
+    {
+      "role": "Main DPS",
+      "name": "Calcharo",
+      "icon": "<:wuCalcharo:1281428392603947048>"
+    },
+    {
+      "role": "Sub-DPS",
+      "name": "Yinlin",
+      "icon": "<:wuYinlin:1281427555659943950>"
+    },
+    {
+      "role": "Support",
+      "name": "Verina",
+      "icon": "<:wuVerina:1281428527425650708>"
+    }
+  ],
+  "released": {
+    "version": "1.0",
+    "phase": 2
+  }
+}
