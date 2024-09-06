@@ -1,36 +1,34 @@
 {
-  "characters": {
-    "yinlin": {
-      "name": "Yinlin",
-      "gender": "Female",
-      "rarity": "5",
-      "rarity_color": "#fffc4d",
-      "weapon": "",
-      "weapon_emoji": "",
-      "element": "Electro",
-      "element_emoji": "<:wuElectro:1281420126071292056>",
-      "images": {
-        "icon": "https://i.imgur.com/Gg9ble5.png",
-        "art": "https://i.imgur.com/qrmjt33.png"
+  "yinlin": {
+    "name": "Yinlin",
+    "gender": "Female",
+    "rarity": "5",
+    "rarity_color": "#fffc4d",
+    "weapon": "",
+    "weapon_emoji": "",
+    "element": "Electro",
+    "element_emoji": "<:wuElectro:1281420126071292056>",
+    "images": {
+      "icon": "https://i.imgur.com/Gg9ble5.png",
+      "art": "https://i.imgur.com/qrmjt33.png"
+    },
+    "best_team": [
+      {
+        "name": "Calcharo",
+        "role": "Main DPS"
       },
-      "best_team": [
-        {
-          "name": "Calcharo",
-          "role": "Main DPS"
-        },
-        {
-          "name": "Yinlin",
-          "role": "Sub-DPS"
-        },
-        {
-          "name": "Verina",
-          "role": "Support"
-        }
-      ],
-      "released": {
-        "version": "1.0",
-        "phase": "2"
+      {
+        "name": "Yinlin",
+        "role": "Sub-DPS"
+      },
+      {
+        "name": "Verina",
+        "role": "Support"
       }
+    ],
+    "released": {
+      "version": "1.0",
+      "phase": "2"
     }
   }
 }
