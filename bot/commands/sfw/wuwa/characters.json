@@ -2,9 +2,12 @@
   "characters": {
     "yinlin": {
       "name": "Yinlin",
+      "rarity": "5",
       "rarity_color": "#fffc4d",
       "weapon": "",
-      "element": "",
+      "weapon_emoji": "",
+      "element": "Electro",
+      "element_emoji": "<:wuElectro:1281420126071292056>",
       "images": {
         "icon": "https://i.imgur.com/Gg9ble5.png",
         "art": "https://i.imgur.com/qrmjt33.png"
