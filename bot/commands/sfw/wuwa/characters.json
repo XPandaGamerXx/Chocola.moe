@@ -13,6 +13,20 @@
         "icon": "https://i.imgur.com/Gg9ble5.png",
         "art": "https://i.imgur.com/qrmjt33.png"
       },
+      "best_team": [
+        {
+          "name": "Calcharo",
+          "role": "Main DPS"
+        },
+        {
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
       "released": {
         "version": "1.0",
         "phase": "2"
