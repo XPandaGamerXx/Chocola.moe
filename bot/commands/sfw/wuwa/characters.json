@@ -4,8 +4,12 @@
     "gender": "Femenino",
     "rarity": "5",
     "rarity_color": "#fffc4d",
-    "weapon": "Rectificador",
     "element": "Electro",
+    "weapon": "Rectificador",
+    "best_weapon": {
+      "name": "Maestro de Cuerdas",
+      "icon": "<:wuStringmaster:1281437129775513703>"
+    },
     "images": {
       "icon": "https://i.imgur.com/Gg9ble5.png",
       "art": "https://i.imgur.com/qrmjt33.png"
