@@ -2,6 +2,7 @@
   "characters": {
     "yinlin": {
       "name": "Yinlin",
+      "gender": "Female",
       "rarity": "5",
       "rarity_color": "#fffc4d",
       "weapon": "",
