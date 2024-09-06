@@ -1,14 +1,11 @@
 {
   "name": "Yinlin",
+  "description": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
   "gender": "Femenino",
   "rarity": 5,
   "rarity_color": "#fffc4d",
   "element": "Electro",
   "weapon": "Rectificador",
-  "pv": {
-    "has_pv": true,
-    "url": "https://youtu.be/7cmSwNACo3g"
-  },
   "stats": [
     {
       "name": "HP",
@@ -52,6 +49,10 @@
       "icon": "<:wuVerina:1281428527425650708>"
     }
   ],
+  "pv": {
+    "has_pv": true,
+    "url": "https://youtu.be/7cmSwNACo3g"
+  },
   "released": {
     "version": "1.0",
     "phase": 2
