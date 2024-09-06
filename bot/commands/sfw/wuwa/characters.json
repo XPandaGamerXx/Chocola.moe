@@ -2,10 +2,32 @@
   "yinlin": {
     "name": "Yinlin",
     "gender": "Femenino",
-    "rarity": "5",
+    "rarity": 5,
     "rarity_color": "#fffc4d",
     "element": "Electro",
     "weapon": "Rectificador",
+    "stats": [
+      {
+        "name": "HP",
+        "base_stat": 880
+      },
+      {
+        "name": "ATK",
+        "base_stat": 32
+      },
+      {
+        "name": "DEF",
+        "base_stat": 105
+      },
+      {
+        "name": "Crit. Rate",
+        "base_stat": 5
+      },
+      {
+        "name": "Crit. DMG",
+        "base_stat": 150
+      }
+    ],
     "best_weapon": {
       "name": "Maestro de Cuerdas"
     },
@@ -31,8 +53,8 @@
       }
     ],
     "released": {
-      "version": "1.0",
-      "phase": "2"
+      "version": 1.0,
+      "phase": 2
     }
   }
 }
