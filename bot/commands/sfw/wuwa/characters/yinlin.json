@@ -5,6 +5,10 @@
   "rarity_color": "#fffc4d",
   "element": "Electro",
   "weapon": "Rectificador",
+  "pv": {
+    "has_pv": true,
+    "url": "https://youtu.be/7cmSwNACo3g"
+  },
   "stats": [
     {
       "name": "HP",
