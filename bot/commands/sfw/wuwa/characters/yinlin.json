@@ -5,7 +5,9 @@
   "rarity": 5,
   "rarity_color": "#fffc4d",
   "element": "Electro",
+  "element_icon": "<:wuElectro:1281822359564849194>"
   "weapon": "Rectificador",
+  "weapon_icon": "<:wuRectifier:1281822343739740172>"
   "banner": {
     "type": "Promocional",
     "name": "Cuando el Trueno Cae"
