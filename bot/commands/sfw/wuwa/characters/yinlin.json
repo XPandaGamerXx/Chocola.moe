@@ -1,6 +1,6 @@
 {
   "name": "Yinlin",
-  "description": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
+  "description": "«Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.»",
   "birthday": "09-17",
   "rarity": 5,
   "rarity_color": "#fffc4d",
@@ -10,28 +10,6 @@
     "type": "Promocional",
     "name": "Cuando el Trueno Cae"
   },
-  "stats": [
-    {
-      "name": "HP",
-      "base_stat": 880
-    },
-    {
-      "name": "ATK",
-      "base_stat": 32
-    },
-    {
-      "name": "DEF",
-      "base_stat": 105
-    },
-    {
-      "name": "Crit. Rate",
-      "base_stat": 5
-    },
-    {
-      "name": "Crit. DMG",
-      "base_stat": 150
-    }
-  ],
   "images": {
     "icon": "https://i.imgur.com/Gg9ble5.png",
     "art": "https://i.imgur.com/qrmjt33.png"
