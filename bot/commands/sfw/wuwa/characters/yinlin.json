@@ -1,13 +1,21 @@
 {
-  "name": "Yinlin",
-  "description": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
-  "birthday": "09-17",
-  "rarity": 5,
-  "rarity_color": "#fffc4d",
-  "element": "Electro",
-  "element_icon": "https://i.imgur.com/J4gDObT.png",
-  "weapon": "Rectificador",
-  "weapon_icon": "<:wuRectifier:1281822343739740172>",
+  "information": {
+    "name": "Yinlin",
+    "description": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
+    "birthday": "09-17"
+  },
+  "rarity": {
+    "stars": 5,
+    "color" "#fffc4d"
+  },
+  "element": {
+    "name": "Electro",
+    "icon": "https://i.imgur.com/J4gDObT.png"
+  },
+  "weapon": {
+    "name": "Rectificador",
+    "icon": "<:wuRectifier:1281822343739740172>"
+  },
   "banner": {
     "type": "Promocional",
     "name": "Cuando el Trueno Cae"
