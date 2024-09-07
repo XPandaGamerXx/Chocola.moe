@@ -1,8 +1,9 @@
 {
   "information": {
     "name": "Yinlin",
-    "description": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
-    "birthday": "09-17"
+    "birthday": "09-17",
+    "presentation": "Me llamo Yinlin. En cuanto a lo que hago... ¡Chitón! No hablamos de eso en público.",
+    "about": "Yinlin es una persona resolutiva y fiable, aunque alberga oscuros secretos en su interior"
   },
   "rarity": {
     "stars": 5,
@@ -11,30 +12,10 @@
   "element": {
     "name": "Electro"
   },
-  "weapon": {
-    "name": "Rectificador"
-  },
   "images": {
     "icon": "https://i.imgur.com/Gg9ble5.png",
     "art": "https://i.imgur.com/qrmjt33.png"
   },
-  "best_team": [
-    {
-      "role": "Main DPS",
-      "name": "Calcharo",
-      "icon": "<:wuCalcharo:1281617606771736647>"
-    },
-    {
-      "role": "Sub-DPS",
-      "name": "Yinlin",
-      "icon": "<:wuYinlin:1281617404442706052>"
-    },
-    {
-      "role": "Support",
-      "name": "Verina",
-      "icon": "<:wuVerina:1281617713361457192>"
-    }
-  ],
   "pv": {
     "has_pv": true,
     "url": "https://youtu.be/7cmSwNACo3g"
