@@ -12,7 +12,8 @@
     "color": "#cea569"
   },
   "element": {
-    "name": "Electro"
+    "name": "Electro",
+    "icon": "<:wuElectro:1282123551729778760>"
   },
   "images": {
     "icon": "https://i.imgur.com/GRZUDBU.png",
