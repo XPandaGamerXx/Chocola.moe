@@ -1,0 +1,28 @@
+{
+  "has_pv": true,
+  "information": {
+    "name": "Encore",
+    "gender": "Femenino",
+    "birthday": "03-21",
+    "presentation": "Hace mucho, mucho tiempo... ¡Cosmos le habló a Encore sobre un lugar divertido! ¡Vamos! ¡Vamos a echarle un vistazo!",
+    "introduction": "Encore, una consultora de Costas Oscuras, es una chica peculiar, vivaz e intrépida a la que le encanta relatar sus amistades y aventuras en forma de cuentos de hadas e historietas."
+  },
+  "rarity": {
+    "stars": "✦✦✦✦✦",
+    "color": "#cea569"
+  },
+  "element": {
+    "name": "Fusión",
+    "icon": "<:wuFusion:1282338301847801947>"
+  },
+  "images": {
+    "icon": "https://i.imgur.com/a7R7QEA.png",
+    "art": "https://i.imgur.com/Ceowkcb.png"
+  },
+  "promotional_video": {
+    "url": "https://youtu.be/bFzglD3GGjE"
+  },
+  "released": {
+    "version": "1.0"
+  }
+}
