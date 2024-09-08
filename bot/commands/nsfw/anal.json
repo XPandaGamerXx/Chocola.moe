@@ -1,0 +1,21 @@
+{
+  "api": "purrbot",
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** folla por el ano a **{mentioned}**"
+      },
+      {
+        "text": "**{user}** le hace un anal a **{mentioned}**"
+      }
+    ],
+    "taiga": [
+      {
+        "text": "**{bot_name}** disfruta que **{user}** le de por el ano."
+      },
+      {
+        "text": "**{user}** folla brutalmente a **{bot_name}** por el ano."
+      }
+    ]
+  }
+}
