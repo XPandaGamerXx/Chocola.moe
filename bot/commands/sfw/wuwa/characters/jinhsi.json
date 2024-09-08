@@ -1,0 +1,28 @@
+{
+  "has_pv": true,
+  "information": {
+    "name": "Jinhsi",
+    "gender": "Femenino",
+    "birthday": "03-6",
+    "presentation": "Tenemos un camino largo por delante. No te preocupes, yo lideraré el camino.",
+    "introduction": "Jinhsi asume con solemnidad su noble e importante labor como magistrada de Jinzhou."
+  },
+  "rarity": {
+    "stars": "✦✦✦✦✦",
+    "color": "#cea569"
+  },
+  "element": {
+    "name": "Espectro",
+    "icon": "<:wuEspectro:1282191913843429460>"
+  },
+  "images": {
+    "icon": "https://i.imgur.com/eMxBhn6.png",
+    "art": "https://i.imgur.com/4VT6ZJV.png"
+  },
+  "promotional_video": {
+    "url": "https://youtu.be/_IOEl-5ynbg"
+  },
+  "released": {
+    "version": "1.1"
+  }
+}
