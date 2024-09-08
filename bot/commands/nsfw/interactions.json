@@ -1,8 +1,10 @@
 {
   "anal": {
-    "text": "**{user_1}** folla por el ano a **{user_2}**"
+    "text": "**{user}** folla por el ano a **{mentioned}**",
+    "bot": "**{bot_name}** le pide a **{user}** que le de por el ano."
   },
   "fuck": {
-    "text": "**{user_1}** se folló a **{user_2}**"
+    "text": "**{user}** se folló a **{user_2}**",
+    "bot": "**{bot_name}** siente el placer de ser follada por **{user}**"
   }
 }
