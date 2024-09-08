@@ -1,0 +1,28 @@
+{
+  "has_pv": true,
+  "information": {
+    "name": "Changli",
+    "gender": "Femenino",
+    "birthday": "06-06",
+    "presentation": "Es realmente mi gran suerte encontrar un digno oponente como tú en este vasto mundo...",
+    "introduction": "Changli, consejera del magistrado de Jinzhou, destaca por su capacidad de aprovechar la naturaleza humana para emboscar a sus enemigos."
+  },
+  "rarity": {
+    "stars": "✦✦✦✦✦",
+    "color": "#cea569"
+  },
+  "element": {
+    "name": "Fusión",
+    "icon": "<:wuFusion:1282338301847801947>"
+  },
+  "images": {
+    "icon": "https://i.imgur.com/ZvxSUaL.png",
+    "art": "https://i.imgur.com/HTRaJZt.png"
+  },
+  "promotional_video": {
+    "url": "https://youtu.be/joAEKM8hORk"
+  },
+  "released": {
+    "version": "1.1"
+  }
+}
