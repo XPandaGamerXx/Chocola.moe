@@ -4,8 +4,8 @@
     "name": "Zhezhi",
     "gender": "Femenino",
     "birthday": "12-31",
-    "presentation": "",
-    "introduction": ""
+    "presentation": "Lo que quise decir es que la luz del sol a tu derecha es preciosa en este instante. ¿Puedo... pintarte?",
+    "introduction": "Zhezhi es una pintora por encargo tranquila y tímida, con una profunda dedicación a su oficio."
   },
   "rarity": {
     "stars": "✦✦✦✦✦",
@@ -16,11 +16,11 @@
     "icon": ""
   },
   "images": {
-    "icon": "",
+    "icon": "https://i.imgur.com/FEHkHCs.png",
     "art": "https://i.imgur.com/1X7HwFN.png"
   },
   "promotional_video": {
-    "url": ""
+    "url": "https://youtu.be/Yi_S7vtQ2tE"
   },
   "released": {
     "version": "1.2"
