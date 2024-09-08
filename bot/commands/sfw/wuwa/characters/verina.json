@@ -1,0 +1,28 @@
+{
+  "has_pv": false,
+  "information": {
+    "name": "Verina",
+    "gender": "Femenino",
+    "birthday": "05-18",
+    "presentation": "Las plantas hablan un idioma silencioso, pero sincero. Si quieres, puedo traducir sus palabras.",
+    "introduction": "Verina es una joven humilde y decidida que pertenecía a un equipo de expedición de la Asociación de Pioneros de la Nueva Federación y hoy cultiva plantas."
+  },
+  "rarity": {
+    "stars": "✦✦✦✦✦",
+    "color": "#cea569"
+  },
+  "element": {
+    "name": "Espectro",
+    "icon": "<:wuEspectro:1282192717513756702>"
+  },
+  "images": {
+    "icon": "https://i.imgur.com/B1bfcGd.png",
+    "art": "https://i.imgur.com/jKmKMi1.png"
+  },
+  "promotional_video": {
+    "url": ""
+  },
+  "released": {
+    "version": "1.0"
+  }
+}
