@@ -4,7 +4,7 @@
     "bot_text": "**{bot_name}** le pide a **{user}** que le de por el ano."
   },
   "fuck": {
-    "text": "**{user}** se folló a **{user_2}**",
+    "text": "**{user}** se folló a **{mentioned}**",
     "bot_text": "**{bot_name}** siente el placer de ser follada por **{user}**"
   }
 }
