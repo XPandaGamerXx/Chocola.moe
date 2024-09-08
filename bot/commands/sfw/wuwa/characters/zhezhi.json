@@ -1,0 +1,28 @@
+{
+  "has_pv": true,
+  "information": {
+    "name": "Zhezhi",
+    "gender": "Femenino",
+    "birthday": "12-31",
+    "presentation": "",
+    "introduction": ""
+  },
+  "rarity": {
+    "stars": "✦✦✦✦✦",
+    "color": "#cea569"
+  },
+  "element": {
+    "name": "Gelio",
+    "icon": ""
+  },
+  "images": {
+    "icon": "",
+    "art": "https://i.imgur.com/1X7HwFN.png"
+  },
+  "promotional_video": {
+    "url": ""
+  },
+  "released": {
+    "version": "1.2"
+  }
+}
