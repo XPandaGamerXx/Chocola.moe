@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** niega con la cabeza."
+      },
+      {
+        "text": "**{user}** no lo sabe."
+      },
+      {
+        "text": "**{user}** no sabe absolutamente nada."
+      }
+    ],
+    "total": 3
+  }
+}
