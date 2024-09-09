@@ -1,0 +1,19 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está muy feliz."
+      },
+      {
+        "text": "**{user}** se ha puesto muy feliz."
+      },
+      {
+        "text": "**{user}** se puso feliz."
+      },
+      {
+        "text": "**{user}** está feliz como una lombriz."
+      }
+    ],
+    "total": 4
+  }
+}
