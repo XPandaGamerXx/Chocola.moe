@@ -1,0 +1,19 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está riendo a carcajadas."
+      },
+      {
+        "text": "**{user}** no puede parar de reír."
+      },
+      {
+        "text": "**{user}** está riendo."
+      },
+      {
+        "text": "**{user}** no puede contener la risa."
+      }
+    ],
+    "total": 4
+  }
+}
