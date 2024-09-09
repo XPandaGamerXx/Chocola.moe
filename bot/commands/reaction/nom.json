@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está comiendo algo delicioso."
+      },
+      {
+        "text": "**{user}** se puso a comer."
+      },
+      {
+        "text": "**{user}** está comiendo."
+      }
+    ],
+    "total": 3
+  }
+}
