@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está durmiendo."
+      },
+      {
+        "text": "**{user}** fué a dormir."
+      },
+      {
+        "text": "**{user}** está dormido como un tronco."
+      }
+    ],
+    "total": 3
+  }
+}
