@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está pensando profundamente."
+      },
+      {
+        "text": "**{user}** se puso a pensar."
+      },
+      {
+        "text": "**{user}** piensa en algo útil."
+      }
+    ],
+    "total": 3
+  }
+}
