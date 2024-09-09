@@ -1,0 +1,13 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** se puso a bostezar."
+      },
+      {
+        "text": "**{user}** está bostezando."
+      }
+    ],
+    "total": 2
+  }
+}
