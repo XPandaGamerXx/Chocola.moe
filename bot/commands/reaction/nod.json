@@ -1,0 +1,13 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** asiente con la cabeza."
+      },
+      {
+        "text": "**{user}** dice que si."
+      }
+    ],
+    "total": 2
+  }
+}
