@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** sonríe dulcemente."
+      },
+      {
+        "text": "**{user}** está sonriendo."
+      },
+      {
+        "text": "**{user}** sonríe alegremente."
+      }
+    ],
+    "total": 3
+  }
+}
