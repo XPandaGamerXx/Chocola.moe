@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está mirando desde las sombras."
+      },
+      {
+        "text": "**{user}** mira desde la lejanía."
+      },
+      {
+        "text": "**{user}** observa desde lejos."
+      }
+    ],
+    "total": 3
+  }
+}
