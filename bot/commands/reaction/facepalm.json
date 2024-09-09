@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está decepcionado..."
+      },
+      {
+        "text": "**{user}** se cubre la cara de frustración."
+      },
+      {
+        "text": "**{user}** no puede creerlo..."
+      }
+    ],
+    "total": 3
+  }
+}
