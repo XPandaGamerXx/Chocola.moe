@@ -1,0 +1,13 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está haciendo un puchero... hmph"
+      },
+      {
+        "text": "**{user}** no parece estar feliz."
+      }
+    ],
+    "total": 2
+  }
+}
