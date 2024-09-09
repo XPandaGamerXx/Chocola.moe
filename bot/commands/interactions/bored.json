@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está aburrido."
+      },
+      {
+        "text": "**{user}** se muere del aburrimiento."
+      },
+      {
+        "text": "**{user}** no tiene nada que hacer."
+      }
+    ],
+    "total": 3
+  }
+}
