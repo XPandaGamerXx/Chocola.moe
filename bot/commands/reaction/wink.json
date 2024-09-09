@@ -1,0 +1,13 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** guiña un ojo."
+      },
+      {
+        "text": "**{user}** guiñó su ojo."
+      }
+    ],
+    "total": 2
+  }
+}
