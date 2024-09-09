@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está llorando."
+      },
+      {
+        "text": "**{user}** se puso a llorar..."
+      },
+      {
+        "text": "Las lágrimas **{user}** no dejan de salir..."
+      }
+    ],
+    "total": 3
+  }
+}
