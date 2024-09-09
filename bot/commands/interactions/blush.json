@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** se ha sonrojado."
+      },
+      {
+        "text": "**{user}** se sonrojó bastante!"
+      },
+      {
+        "text": "**{user}** se sonroja."
+      }
+    ],
+    "total": 2
+  }
+}
