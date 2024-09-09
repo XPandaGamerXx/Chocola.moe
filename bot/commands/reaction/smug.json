@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** tiene una expresión arrogante."
+      },
+      {
+        "text": "**{user}** se puso a presumir."
+      },
+      {
+        "text": "**{user}** está presumiendo."
+      }
+    ],
+    "total": 3
+  }
+}
