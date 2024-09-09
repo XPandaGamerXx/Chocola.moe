@@ -1,0 +1,13 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** aprueba ésto."
+      },
+      {
+        "text": "**{user}** levantó el pulgar."
+      }
+    ],
+    "total": 2
+  }
+}
