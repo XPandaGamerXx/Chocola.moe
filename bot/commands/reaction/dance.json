@@ -1,0 +1,16 @@
+{
+  "responses": {
+    "default": [
+      {
+        "text": "**{user}** está bailando~ ♫"
+      },
+      {
+        "text": "**{user}** ama bailar~ ♫"
+      },
+      {
+        "text": "**{user}** no para de bailar~ ♫"
+      }
+    ],
+    "total": 3
+  }
+}
