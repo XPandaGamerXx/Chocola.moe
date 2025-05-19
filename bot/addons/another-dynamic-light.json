@@ -1,0 +1,23 @@
+{
+  "color": "#FEA500",
+  "information": {
+    "name": "Another Dynamic Light",
+    "version" "1.0.7",
+    "description": "Sometimes, caves or forests can be too dark if there isn’t enough lighting. This Add-on adds dynamic lighting, allowing you to illuminate your path without needing to place torches. It also includes a very easy-to-craft torch that can be placed in the Off-hand slot."
+  },
+  "features": [
+    {
+      "feature": "* Another Dynamic Light is compatible with any Minecraft Bedrock Add-on."
+    },
+    {
+      "feature": "* Lights your path without the need to place torches."
+    },
+    {
+      "feature": "* Features over 30 items that can light your way."
+    },
+    {
+      "feature": "* Includes a new torch that can be equipped in the Off-hand slot."
+    }
+  ],
+  "url": "https://mcpedl.com/another-dynamic-light/"
+}
