@@ -1,0 +1,13 @@
+{
+  "version": "1.0.6",
+  "information": {
+    "name": "JustHammers [Bedrock]",
+    "description": "Add hammers to the game that are able to mine in a 3x3, 3x3x3, 5x5x3 and finally a 5x5x5! They're pretty awesome.",
+    "color": "#37b6ff"
+  },
+  "images": {
+    "thumbnail": "https://i.imgur.com/NHLy6eo.png",
+    "main_image": "https://i.imgur.com/rqIy6ws.png"
+  },
+  "url": "https://mcpedl.com/justhammers-bedrock/"
+}
