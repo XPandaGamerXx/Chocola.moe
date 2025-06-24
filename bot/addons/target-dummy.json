@@ -1,0 +1,13 @@
+{
+  "version": "1.0.7",
+  "information": {
+    "name": "Target Dummy",
+    "description": "The Target Dummy can be placed anywhere in the world or in any dimension. When you hit it, it will perform a dynamic animation. In other words, if you hit it, it will lean in the opposite direction. Additionally, it will display the exact amount of damage it received.",
+    "color": "#ffed3d"
+  },
+  "images": {
+    "thumbnail": "https://i.imgur.com/OMJrpq0.png",
+    "main_image": "https://i.imgur.com/QuzNxXk.png"
+  },
+  "url": "https://mcpedl.com/target-dummy/"
+}
